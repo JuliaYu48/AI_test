@@ -6,6 +6,9 @@ AlwaysSaveHistory: Default
 
 EnableCodeIndexing: Yes
 UseSpacesForTab: Yes
+
+
+
 NumSpacesForTab: 2
 
 open file
